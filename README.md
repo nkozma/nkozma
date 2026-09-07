@@ -18,13 +18,13 @@ Technical QA · CI/CD · Internal Tools · Automation · Process Improvement · 
 
 ### 🌐 Links
 
-[**Portfolio →**](https://n-kozma.github.io)
+[**Portfolio**](https://nkozma.github.io)
 
-[**Resume →**](https://n-kozma.github.io/assets/resume_ru.pdf)
+[**Resume**](https://nkozma.github.io/assets/resume_ru.pdf)
 
-[**Telegram →**](https://t.me/n_kozma)
+[**Telegram**](https://t.me/n_kozma)
 
-[**Email →**](mailto:n_kozma@bk.ru)
+[**Email**](mailto:n_kozma@bk.ru)
 
 ---
 
